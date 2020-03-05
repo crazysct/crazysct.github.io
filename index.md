@@ -4,6 +4,7 @@ Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)
 Department of Electrical and Computer Engineering (ECE)  
 Seoul National University (SNU)  
 E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**  
+[Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ)
 
 ## Education and Career
 * 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
