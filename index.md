@@ -6,10 +6,34 @@ Seoul National University (SNU)
 E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**  
 
 ## Education and Career
+* 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
+* 2011.03 ~ 2013.02, School of electrical and electronic engineering, Yonsei University, M.S. (advised by Prof. Taewon Hwang)
+* 2013.02 ~ 2015.07, Samsung electronics, Engineer.
+* 2016.03 ~ current, Department of electrical and computer engineering, Seoul national university, Ph.D. student. (advised by Prof. Saewoong Bahk)
 
 ## Research Interests
+* Next-generation communication systems
+* Stochastic geometry
+* Optimization
+* Statistical learning
 
 ## Publications
+### - International Journals
+* Siyoung Choi, Hyunsung Park, and Taewon Hwang, "Optimal beamforming and power allocation for sensing-based spectrum sharing in cognitive radio networks" IEEE Trans. Veh. Technol., vol 63. no. 1, pp. 412-417, Jan. 2014.
+* Byungjun Kang, Siyoung Choi, Sunghoon Jung, and Saewoong Bahk, "D2D Communications Underlaying Cellular Networks on Licensed and Unlicensed Bands with QoS constraints," Journal of Communications and Networks, Aug. 2019.
+
+### - International Conferences
+* Siyoung Choi, Junghwan Song, Seongjoon Kang, Ted Taekyoung Kwon, and Saewoong Bahk, "5G K-SimNet: Network Simulator for Evaluating End-to-end Performance of 5G Cellular Systems," IEEE DySPAN 2018, Seoul, South Korea, Oct. 22-25, 2018.
+* Siyoung Choi, Junghwan Song, Junseok Kim, Suhun Lim, Sunghyun Choi, Ted Taekyoung Kwon, and Saewoong Bahk, "5G K-SimNet: End-to-End Performance Evaluation of 5G Cellular Systems," in Proc. IEEE CCNC 2019 Workshop on 5G Simulators and Testbeds, Las Vegas, NV, USA, Jan. 11-14, 2019.
+* Goodsol Lee, Siyoung Choi, and Saewoong Bahk, "Simulation Study of TCP Proxy in Multi-Connectivity enabled 5G mmWave Network"  ICTC 2019 (poster), Jeju, Korea,  Oct. 16-18, 2019.
+* Seongjoon Kang, Siyoung Choi, Goodsol Lee, and Saewoong Bahk, "A Dual-Connection based Handover Scheme for Ultra-Dense Millimeter-Wave Cellular Networks," IEEE GLOBECOM 2019, Hawaii, USA,  Dec. 9-13, 2019.
+* Goodsol Lee, Siyoung Choi, Junseok Kim, Youngseok Kim, and Saewoong Bahk, "ProSCH: Proxy aided Secondary Cell Handover in Ultra-Dense mmWave Network," IEEE WCNC 2020, Seoul, South Korea,  Apr. 6-9, 2020.
+
+### - Domestic Journals
+* 최시영, 송정환, 김준석, 강성준, 권태경, 최성현, 박세웅, "5G K-SimNet: 5G 이동통신 시스템의 종단간 성능 검증을 위한 네트워크 시뮬레이터" 한국통신학회논문지, 제44권, 제3호, pp. 609-617, 2019년 3월.
+
+## Patents
+* 최시영, 박세웅, 우동연, 강성준, 이형호, "무선 네트워크 시스템에서 트래픽을 처리하는 방법 및 장치," 1020170094359, 2017.07.25.
 
 <!--
 ---
