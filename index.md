@@ -1,3 +1,17 @@
+## Profile
+### Ph.D. Candidate  
+Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
+Department of Electrical and Computer Engineering (ECE)  
+Seoul National University (SNU)  
+E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**  
+
+## Education and Career
+
+## Research Interests
+
+## Publications
+
+<!--
 ---
 layout: default
 ---
@@ -121,3 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
