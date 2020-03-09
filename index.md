@@ -42,7 +42,7 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 
 ### - Software Intellectual Properties
 * **Siyoung Choi**, Saewoong Bahk, "Resource Allocation Algorithm for D2D Communication on Licensed and Unlicensed Bands," Korea Copyright Commission C-2017-002283, Jan. 2017.
-* Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, "5G-K Simulator," Korea Copyright Commission C-2019-005919, Feb. 2019.
+* Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, "[5G-K Simulator](https://github.com/crazysct/kSimNet)," Korea Copyright Commission C-2019-005919, Feb. 2019.
 
 <!--
 ---
