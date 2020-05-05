@@ -38,7 +38,7 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 ## Intellectual Properties
 
 ### - Patent Intellectual Properties
-* **Siyoung Choi**, Saewoong Bahk, Dongyeon Woo, Seongjoon Kang, Hyungho Lee, "Method and Apparatus for Processing the Traffic in Radio Network System," Korean Patent 1020170094359, 2017.07.25.
+* Hyungho Lee, Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, Dongyeon Woo, "Method and Apparatus for Processing the Traffic in Radio Network System," US Patent App. 16/043,761.
 
 ### - Software Intellectual Properties
 * **Siyoung Choi**, Saewoong Bahk, "Resource Allocation Algorithm for D2D Communication on Licensed and Unlicensed Bands," Korea Copyright Commission C-2017-002283, Jan. 2017.
