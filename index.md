@@ -6,10 +6,12 @@ Department of Electrical and Computer Engineering (ECE)
 Seoul National University (SNU)  
 E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**  
 
-## Education and Career
+## Career
+* 2013.02 ~ 2015.07, Samsung electronics, Engineer.
+
+## Education
 * 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
 * 2011.03 ~ 2013.02, School of electrical and electronic engineering, Yonsei University, M.S. (advised by Prof. Taewon Hwang)
-* 2013.02 ~ 2015.07, Samsung electronics, Engineer.
 * 2016.03 ~ current, Department of electrical and computer engineering, Seoul national university, Ph.D. student. (advised by Prof. Saewoong Bahk)
 
 ## Research Interests
@@ -44,6 +46,12 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 * **Siyoung Choi**, Saewoong Bahk, "Resource Allocation Algorithm for D2D Communication on Licensed and Unlicensed Bands," Korea Copyright Commission C-2017-002283, Jan. 2017.
 * Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, "[5G-K Simulator](https://github.com/crazysct/kSimNet)," Korea Copyright Commission C-2019-005919, Feb. 2019.
 
+## Professional Activities
+
+### - Reviewer
+* IEEE International Conference on Communications (ICC), 2019.
+* IEEE Network Magazine, 2019.
+* IEEE Wireless Communication Letter, 2020.
 
 <!--
 ---
