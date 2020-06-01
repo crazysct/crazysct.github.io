@@ -1,6 +1,24 @@
-title: Siyoung Choi
-logo: /assets/img/sychoi.jpg
-description: <p><b>Ph. D. candidate </b><br>Department of ECE, SNU, Seoul, Korea</p>
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+title:              Siyoung's Blog
+email:              crazysct@gmail.com
+description:        A Blog Theme by Start Bootstrap
+author:             Siyoung Choi
+baseurl:            "https://crazysct.github.io"
+url:                "https://crazysct.github.io"
+
+# Social Profiles
+#twitter_username:   SBootstrap
+github_username:    crazysct
+#facebook_username:  StartBootstrap
+linkedin_username: siyoung-choi-8a09099a
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
