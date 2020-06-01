@@ -45,7 +45,6 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 ### Intellectual Properties
 
 #### - Patent Intellectual Properties
-* Hyungho Lee, Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, Dongyeon Woo, "무선 네트워크 시스템에서 트래픽을 처리하는 방법 및 장치," Korea Patent 1020170094359.
 * Hyungho Lee, Saewoong Bahk, **Siyoung Choi**, Seongjoon Kang, Dongyeon Woo, "Method and Apparatus for Processing the Traffic in Radio Network System," US Patent App. 16/043,761.
 
 #### - Software Intellectual Properties
