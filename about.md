@@ -10,9 +10,9 @@ Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)
 Department of Electrical and Computer Engineering (ECE)  
 Seoul National University (SNU)  
 E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
-GitHub(https://github.com/crazysct)
-LinkedIn(https://www.linkedin.com/in/siyoung-choi-8a09099a)
-Google Scholar(https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)
+[GitHub](https://github.com/crazysct)
+[LinkedIn](https://www.linkedin.com/in/siyoung-choi-8a09099a)
+[Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)
 
 ### Career
 * 2013.02 ~ 2015.07, Samsung electronics, Engineer.
