@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Siyoung Choi
 description: <p><b>Ph. D. candidate </b><br>Department of ECE, SNU, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
