@@ -6,11 +6,11 @@ baseurl:            ""
 url:                ""
 
 # Social Profiles
-#twitter_username:   SBootstrap
-github_username:    crazysct
-#facebook_username:  StartBootstrap
-linkedin_username: siyoung-choi-8a09099a
-google_scholar_userProfile: citations?user=_TG5vLIAAAAJ&hl
+twitter_username:
+github_username:
+facebook_username:
+linkedin_username:
+google_scholar_userProfile:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   # out your google-analytics code
