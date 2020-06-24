@@ -20,7 +20,7 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 ### Education
 * 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
 * 2011.03 ~ 2013.02, School of electrical and electronic engineering, Yonsei University, M.S. (advised by Prof. Taewon Hwang)
-* 2016.03 ~ current, Department of electrical and computer engineering, Seoul national university, Ph.D. student. (advised by Prof. Saewoong Bahk)
+* 2016.03 ~ current, Department of electrical and computer engineering, Seoul National University, Ph.D. student. (advised by Prof. Saewoong Bahk)
 
 ### Research Interests
 * Next-generation communication systems
