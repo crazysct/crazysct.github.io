@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Siyoung Choi
-description: <p><b>Ph. D. candidate </b><br>Department of ECE, SNU, Seoul, Korea</p>
+description: <p><b>Ph. D. </b><br>Department of ECE, SNU, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
 
@@ -20,7 +20,7 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 ### Education
 * 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
 * 2011.03 ~ 2013.02, School of electrical and electronic engineering, Yonsei University, M.S. (advised by Prof. Taewon Hwang)
-* 2016.03 ~ 2021.02, Department of electrical and computer engineering, Seoul National University, Ph.D. student. (advised by Prof. Saewoong Bahk)
+* 2016.03 ~ 2021.02, Department of electrical and computer engineering, Seoul National University, Ph.D. (advised by Prof. Saewoong Bahk)
 
 ### Research Interests
 * Next-generation communication systems
