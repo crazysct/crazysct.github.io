@@ -5,7 +5,7 @@ description: <p><b>Ph. D. </b><br>Department of ECE, SNU, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
 
-#### Ph.D. Candidate  
+#### Ph.D.
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
 Department of Electrical and Computer Engineering (ECE)  
 Seoul National University (SNU)  
