@@ -15,7 +15,8 @@ E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 [Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)  
 
 ### Career
-* 2013.02 ~ 2015.07, Samsung electronics, Engineer.
+* 2013.02 ~ 2015.07, Samsung Electronics, Engineer.
+* 2021.04 ~ present, LG Electronics, Engineer.
 
 ### Education
 * 2005.03 ~ 2011.02, School of electrical and electronic engineering, Yonsei University, B.S.
