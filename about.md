@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Siyoung Choi
-description: <p><b>Ph. D. </b><br>Department of ECE, SNU, Seoul, Korea</p>
+description: <p><b>Engineer </b><br>LG Electronics, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
 
