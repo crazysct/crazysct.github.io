@@ -5,11 +5,18 @@ description: <p><b>Engineer </b><br>LG Electronics, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
 
+#### Engineer
+LG Electronics
+CTO Future Technology Center
+C&M Standard LAB
+E-mail: **see0.choi.at.lge.com**
+Interests: L2 protocol, control plane
+
 #### Ph.D.
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
 Department of Electrical and Computer Engineering (ECE)  
 Seoul National University (SNU)  
-E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**  
+E-mail: **sychoi.at.netlab.snu.ac.kr, crazysct.at.gmail.com**
 [GitHub](https://github.com/crazysct)  
 [LinkedIn](https://www.linkedin.com/in/siyoung-choi-8a09099a)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)  
