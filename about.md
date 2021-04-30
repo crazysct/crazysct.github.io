@@ -6,11 +6,10 @@ background: '/img/bg-about.jpg'
 ---
 
 #### Engineer
-LG Electronics
-CTO Future Technology Center
-C&M Standard LAB
-E-mail: **see0.choi.at.lge.com**
-Interests: L2 protocol, control plane
+LG Electronics.  
+CTO Future Technology Center  
+C&M Standard Lab.  
+E-mail: **see0.choi.at.lge.com**  
 [GitHub](https://github.com/crazysct)  
 [LinkedIn](https://www.linkedin.com/in/siyoung-choi-8a09099a)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)  
