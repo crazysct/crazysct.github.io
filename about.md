@@ -6,7 +6,7 @@ background: '/img/bg-about.jpg'
 ---
 
 #### Engineer
-LG Electronics.  
+LG Electronics  
 CTO Future Technology Center  
 C&M Standard Lab.  
 E-mail: **see0.choi.at.lge.com**  
