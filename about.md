@@ -5,7 +5,7 @@ description: <p><b>Engineer </b><br>LG Electronics, Seoul, Korea</p>
 background: '/img/bg-about.jpg'
 ---
 
-#### Engineer
+#### Standard Engineer
 LG Electronics  
 CTO Future Technology Center  
 C&M Standard Lab.  
@@ -63,3 +63,11 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 * IEEE International Conference on Communications (ICC), 2019.
 * IEEE Network Magazine, 2019.
 * IEEE Wireless Communication Letter, 2020.
+
+### Honors and awards
+* 2008.08, 최우등상(연세대학교 공과대학 상위 1%)
+* 2009.02, 우수상(연세대학교 공과대학 상위 10%)
+* 2009.08, 우등상(연세대학교 공과대학 상위 3%)
+* 2008.09 ~ 2011.02, Electrical and electronic honor society (EEHS), Yonsei Univerisity
+* 2008.09 ~, Young engineer honor society (YEHS), 한국공학한림원(NAEK)
+* 2021.02, 한국통신학회(KICS) 2020년도 추계종합학술발표회 우수논문상
