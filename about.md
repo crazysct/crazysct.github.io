@@ -63,6 +63,10 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 * IEEE International Conference on Communications (ICC), 2019.
 * IEEE Network Magazine, 2019.
 * IEEE Wireless Communication Letter, 2020.
+* IEEE Transactions on Vehicular Technology, 2021.
+
+#### - Standard Engineer
+* 3GPP RAN2 Standardization, LGE delegate.
 
 ### Honors & Awards
 * 2008.08, 최우등상(연세대학교 공과대학 상위 1%)
