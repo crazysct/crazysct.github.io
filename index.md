@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: about
 background: '/img/bg-index.jpg'
 ---
