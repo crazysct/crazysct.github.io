@@ -37,6 +37,7 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 * Byungjun Kang, **Siyoung Choi**, Sunghoon Jung, and Saewoong Bahk, "D2D Communications Underlaying Cellular Networks on Licensed and Unlicensed Bands with QoS constraints," Journal of Communications and Networks, Aug. 2019.
 * **Siyoung Choi**, Jin-Ghoo Choi, and Saewoong Bahk, "Mobility-Aware Analysis of Millimeter Wave Communication Systems With Blockages," IEEE Transactions on Vehicular Technology, vol 69. no. 6, pp. 5901-5912, Jun. 2020.
 * **Siyoung Choi**, Jin-Ghoo Choi, and Saewoong Bahk, "Association Control for User Centric Millimeter Wave Communication Systems," IEEE Transactions on Vehicular Technology, vol 70. no. 11, pp. 12001-12012, Nov. 2021.
+* Sihyun Choi, **Siyoung Choi**, Goodsol Lee, Sung-Guk Yoon, and Saewoong Bahk, "Deep Reinforcement Learning for Scalable Dynamic Bandwidth Allocation in RAN Slicing with Highly Mobile Users," To appear in IEEE Transactions on Vehicular Technology.
 
 #### - International Conference and Workshop Papers
 * **Siyoung Choi**, Junghwan Song, Seongjoon Kang, Ted Taekyoung Kwon, and Saewoong Bahk, "5G K-SimNet: Network Simulator for Evaluating End-to-end Performance of 5G Cellular Systems," IEEE DySPAN 2018, Seoul, South Korea, Oct. 22-25, 2018.
