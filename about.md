@@ -13,6 +13,8 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 [GitHub](https://github.com/crazysct)  
 [LinkedIn](https://www.linkedin.com/in/siyoung-choi-8a09099a)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)  
+[Web of Science](https://www.webofscience.com/wos/author/record/ADL-2156-2022)  
+[ORCID](https://orcid.org/0000-0003-1678-6995)
 
 ### Career
 * 2013.02 ~ 2015.07, Samsung Electronics, Engineer.
@@ -64,7 +66,7 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 * IEEE International Conference on Communications (ICC), 2019.
 * IEEE Network Magazine, 2019.
 * IEEE Wireless Communication Letter, 2020.
-* IEEE Transactions on Vehicular Technology, 2021.
+* IEEE Transactions on Vehicular Technology, 2021-2022.
 
 #### - Standard Engineer
 * 3GPP RAN2 Standardization, LGE delegate.
