@@ -9,7 +9,7 @@ background: '/img/bg-about.jpg'
 LG Electronics  
 CTO Future Technology Center  
 C&M Standard Lab.  
-E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**  
+E-mail: **see0.choi_at_lge.com** or **crazysct_at_gmail.com**  
 [GitHub](https://github.com/crazysct)  
 [LinkedIn](https://www.linkedin.com/in/siyoung-choi-8a09099a)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=_TG5vLIAAAAJ&hl)  
@@ -30,7 +30,7 @@ E-mail: **see0.choi.at.lge.com** or **crazysct.at.gmail.com**
 * Stochastic geometry
 * Optimization
 * Statistical learning
-* L2 layer protocol
+* L2 protocol
 
 ### Publications
 
